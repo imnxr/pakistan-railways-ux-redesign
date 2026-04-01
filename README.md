@@ -116,8 +116,8 @@ redesign**, conducted as part of our Human-Computer Interaction (HCI) course.
 ## 📂 Project Structure
 ```
 pakistan-railways-ux-redesign/
-├── images/              # Hi-Fi redesign screenshots (before & after)
-├── RABTA-Usability-Report.pdf   # Full project report
+├── images/              # Hi-Fi redesign screenshots 
+├── RABTA-Usability-Report.pdf   # Full project report with screenshots 
 └── README.md            # This file
 ```
 
