@@ -71,7 +71,6 @@ redesign**, conducted as part of our Human-Computer Interaction (HCI) course.
 ## 🎨 Redesigned Screens
 
 ### 🏠 Home Page
-| Before |
 | ![Home After](images/home.png) |
 
 **Issues Fixed:** Poor visual hierarchy · Ambiguous navigation · No language support · Misplaced legal links
@@ -79,7 +78,6 @@ redesign**, conducted as part of our Human-Computer Interaction (HCI) course.
 ---
 
 ### 🔐 Login Page
-| Before |
 | ![Login After](images/login.png) |
 
 **Issues Fixed:** Invisible input fields · Poor contrast · Misplaced Privacy Policy & Terms links
@@ -87,7 +85,6 @@ redesign**, conducted as part of our Human-Computer Interaction (HCI) course.
 ---
 
 ### 📝 Signup Page
-| Before |
 | ![Signup After](images/signup.png) |
 
 **Issues Fixed:** Broken verification flow · "Emile Address" typo · No real-time validation
@@ -95,7 +92,6 @@ redesign**, conducted as part of our Human-Computer Interaction (HCI) course.
 ---
 
 ### 🚂 Train Timings Page
-| Before | 
 | ![Booking After](images/booking.png) |
 
 **Issues Fixed:** Cryptic class codes · Hidden booking button · No clear seat availability display
