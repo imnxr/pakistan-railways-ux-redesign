@@ -128,4 +128,14 @@ pakistan-railways-ux-redesign/
 > *When a public platform is hard to use, real people miss trains.*  
 > Good design is not a luxury — for a national service used by millions, it is a responsibility.
 
+## Author
+
+**M. Mansoor Ur Rehman**
+
+- 📧 mansoorshakeel196@gmail.com
+- 💼 www.linkedin.com/in/mmansoorurrehman
+- 🐙 https://github.com/imnxr
+
+---
+
 ---
